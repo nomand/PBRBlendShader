@@ -3,16 +3,17 @@ A set of PBR shaders for Unity3d.
 
 Using editor vertex blending tools (like Unity's recently purchased Polybrush.) you can blend barious PBR properties.
 
+<img src='/Documentation/WET01.gif'/>
+
 ### Features
 
 These were made with Unity's Polybrush in mind, however any vertex painter will work.
 
 * Drag and drop material properties autoassignment.
-* BlendTwo is currently broken, a shader that blends two PBR materials together.
-* BlendWet: Paint wentess / water onto a PBR material.
-* BlendRough: Paint additional roughness onto a PBR material.
-* BlendBase: Paint additional albedo onto a PBR material.
-
+* **BlendTwo** Blends two PBR materials together. `currently broken`.
+* **BlendWet**: Paint wentess / water onto a PBR material.
+* **BlendRough**: Paint additional roughness onto a PBR material.
+* **BlendBase**: Paint additional albedo onto a PBR material.
 
 ### Disclaimer
 
