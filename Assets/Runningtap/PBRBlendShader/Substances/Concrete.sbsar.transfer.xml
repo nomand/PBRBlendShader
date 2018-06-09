@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Substance>
+  <Graphs>
+    <Graph>
+      <Name>CV1</Name>
+      <PrototypeName>Concrete</PrototypeName>
+      <PrototypeIndex>0</PrototypeIndex>
+      <Preset> &lt;sbspreset pkgurl="pkg://CV1/CV1" description="Exported from Unity" label="unity"&gt;
+ &lt;presetinput identifier="$outputsize" uid="1376339906" type="8" value="10,10"/&gt;
+ &lt;presetinput identifier="$randomseed" uid="91967888" type="4" value="1451"/&gt;
+ &lt;/sbspreset&gt;
+</Preset>
+      <FileID>-1188046485</FileID>
+      <GUID>60a2c643f4a7e054a8b930dc426beb95</GUID>
+      <TargetSetting>
+        <BuildTarget>Default</BuildTarget>
+        <TextureWidth>1024</TextureWidth>
+        <TextureHeight>1024</TextureHeight>
+        <TextureFormat>0</TextureFormat>
+        <LoadingBehavior>4</LoadingBehavior>
+      </TargetSetting>
+    </Graph>
+  </Graphs>
+</Substance>

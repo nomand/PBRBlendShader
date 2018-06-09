@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Substance>
+  <Graphs>
+    <Graph>
+      <Name>ground_moss</Name>
+      <PrototypeName>ground_moss</PrototypeName>
+      <PrototypeIndex>0</PrototypeIndex>
+      <Preset> &lt;sbspreset pkgurl="pkg://ground_moss/ground_moss" description="Exported from Unity" label="unity"&gt;
+ &lt;presetinput identifier="$outputsize" uid="4079788715" type="8" value="9,9"/&gt;
+ &lt;presetinput identifier="$randomseed" uid="2757670137" type="4" value="0"/&gt;
+ &lt;presetinput identifier="normal_format" uid="2393745084" type="4" value="0"/&gt;
+ &lt;presetinput identifier="normal_intensity" uid="2393744763" type="0" value="0.500000"/&gt;
+ &lt;presetinput identifier="height_range" uid="2385891515" type="0" value="0.500000"/&gt;
+ &lt;presetinput identifier="height_level" uid="2385891513" type="0" value="0.500000"/&gt;
+ &lt;/sbspreset&gt;
+</Preset>
+      <FileID>-1117323044</FileID>
+      <GUID>d8431d4eda0994947a0a60e24e8ee481</GUID>
+      <TargetSetting>
+        <BuildTarget>Default</BuildTarget>
+        <TextureWidth>512</TextureWidth>
+        <TextureHeight>512</TextureHeight>
+        <TextureFormat>0</TextureFormat>
+        <LoadingBehavior>1</LoadingBehavior>
+      </TargetSetting>
+    </Graph>
+  </Graphs>
+</Substance>

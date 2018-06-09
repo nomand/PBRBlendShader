@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 81ad274129a1c0848b8fc0eceb2bd984
+timeCreated: 1524804176
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Occlusion1: {fileID: 66032633, guid: 60a2c643f4a7e054a8b930dc426beb95, type: 3}
+  - _Height1: {fileID: 66032633, guid: 60a2c643f4a7e054a8b930dc426beb95, type: 3}
+  - _WaterRoughness: {fileID: -941712012, guid: d8431d4eda0994947a0a60e24e8ee481,
+      type: 3}
+  - _BaseColor1: {fileID: 66032633, guid: 60a2c643f4a7e054a8b930dc426beb95, type: 3}
+  - _Metallic1: {fileID: 66032633, guid: 60a2c643f4a7e054a8b930dc426beb95, type: 3}
+  - _Normal1: {fileID: 66032633, guid: 60a2c643f4a7e054a8b930dc426beb95, type: 3}
+  - _BlendNoise: {fileID: 2800000, guid: 43819f91997c5fb48821d0d39e7c4317, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

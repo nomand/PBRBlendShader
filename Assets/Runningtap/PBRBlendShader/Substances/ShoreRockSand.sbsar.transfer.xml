@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Substance>
+  <Graphs>
+    <Graph>
+      <Name>MainComposition</Name>
+      <PrototypeName>MainComposition</PrototypeName>
+      <PrototypeIndex>0</PrototypeIndex>
+      <Preset> &lt;sbspreset pkgurl="pkg://MainComposition/MainComposition" description="Exported from Unity" label="unity"&gt;
+ &lt;presetinput identifier="$outputsize" uid="4043847072" type="8" value="10,10"/&gt;
+ &lt;presetinput identifier="$randomseed" uid="2793022450" type="4" value="0"/&gt;
+ &lt;presetinput identifier="Rock_Random_Seed" uid="2181169476" type="4" value="0"/&gt;
+ &lt;presetinput identifier="Rock_Erosion" uid="2181179681" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Pebble_Large_Amount" uid="2181180074" type="4" value="15"/&gt;
+ &lt;presetinput identifier="Pebble_Large_Scale" uid="2181147335" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Pebble_Medium_Amount" uid="2181178493" type="4" value="50"/&gt;
+ &lt;presetinput identifier="Pebble_Medium_Scale" uid="2181178871" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Pebble_Small_Amount" uid="2181178382" type="4" value="100"/&gt;
+ &lt;presetinput identifier="Pebble_Small_Scale" uid="2181184370" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Pebble_Tiny_Amount" uid="2181178532" type="4" value="500"/&gt;
+ &lt;presetinput identifier="Pebble_Tiny_Scale" uid="2181187201" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Moss_Visibility" uid="2185173387" type="4" value="0"/&gt;
+ &lt;presetinput identifier="Sand_Visibility" uid="2185170548" type="4" value="0"/&gt;
+ &lt;presetinput identifier="Leaves_Visibility" uid="2181117972" type="4" value="0"/&gt;
+ &lt;presetinput identifier="Leaf_A_Type" uid="2181136319" type="4" value="9"/&gt;
+ &lt;presetinput identifier="Leaf_A_Amount" uid="2181227936" type="4" value="7"/&gt;
+ &lt;presetinput identifier="Leaf_A_Scale" uid="2181228483" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Leaf_B_Type" uid="2181134568" type="4" value="7"/&gt;
+ &lt;presetinput identifier="Leaf_B_Amount" uid="2181228153" type="4" value="7"/&gt;
+ &lt;presetinput identifier="Leaf_B_Scale" uid="2181226729" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Leaf_C_Type" uid="2181134939" type="4" value="5"/&gt;
+ &lt;presetinput identifier="Leaf_C_Amount" uid="2181228088" type="4" value="14"/&gt;
+ &lt;presetinput identifier="Leaf_C_Scale" uid="2181226667" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Leaf_D_Type" uid="2181134872" type="4" value="0"/&gt;
+ &lt;presetinput identifier="Leaf_D_amount" uid="2181228262" type="4" value="5"/&gt;
+ &lt;presetinput identifier="Leaf_D_Scale" uid="2181226852" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Water_Sediment_Color" uid="2181118181" type="3" value="0.000000,0.000000,0.000000,1.000000"/&gt;
+ &lt;presetinput identifier="Water_sediment_Density" uid="2181126052" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Water_Level" uid="2185227658" type="0" value="0.054902"/&gt;
+ &lt;presetinput identifier="Normal_Intensity" uid="2181160872" type="0" value="1.000000"/&gt;
+ &lt;presetinput identifier="Leaves_Normal_Intensity" uid="2181089118" type="0" value="1.000000"/&gt;
+ &lt;/sbspreset&gt;
+</Preset>
+      <FileID>-1763431594</FileID>
+      <GUID>ffb7972f6a052944c8dbeee040efdfc3</GUID>
+      <TargetSetting>
+        <BuildTarget>Default</BuildTarget>
+        <TextureWidth>1024</TextureWidth>
+        <TextureHeight>1024</TextureHeight>
+        <TextureFormat>0</TextureFormat>
+        <LoadingBehavior>1</LoadingBehavior>
+      </TargetSetting>
+    </Graph>
+  </Graphs>
+</Substance>
