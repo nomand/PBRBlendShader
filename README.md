@@ -17,7 +17,7 @@ These were made with Unity's Polybrush in mind, however any vertex painter will 
 
 download the **unitypackage** for shaders and associated scripts only or download the project for other setup.
 I never got around to implementing Emissive properties.
-Refer to the [Wiki](/wiki) for more details.
+Refer to the [Wiki](/../../wiki) for more details.
 
 ### Disclaimer
 
